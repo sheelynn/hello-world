@@ -1,3 +1,3 @@
 # hello-world
-just do i
+just do it
 28.3.25
